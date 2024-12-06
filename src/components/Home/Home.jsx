@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <div className=" h-lvh bg-teal-500  flex flex-col items-center justify-center">
         <div className="text-center text-3xl p-3 font-medium text-white"> START FRAMEWORK</div>
-        <img src="../../../public/img/avataaars.svg" className=" w-40" />
+        <img src="/img/avataaars.svg" className=" w-40" />
       </div>
     </>
   );

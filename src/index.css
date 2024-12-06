@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+    background-color: rgb(26, 228, 195);
+    border-radius: 15px;
+    padding: 15px;
+}
+.plus{
+    
+}
